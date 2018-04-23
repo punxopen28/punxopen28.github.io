@@ -8,9 +8,13 @@ body div > div{
 }
 
 h2{
-  text-shadow: 5px 4px black;
-  color: red;
+  /*text-shadow: 5px 4px black;*/
+  color: green;
   text-align: center;
+}
+
+p{
+	color: red;
 }
 
 #quote-box{
